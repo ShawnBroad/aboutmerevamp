@@ -1,0 +1,66 @@
+body {
+    background-color: #f5f9e9;
+}
+
+
+header {
+    background-color: #ff934f;
+    height: 100px;
+    width: auto;
+}
+
+footer{ 
+    background-color: #009fb7;
+    height: 100px;
+    width: auto;
+}
+
+container1{
+    height: 400px;
+    width: auto;
+}
+
+.buffer {
+    height: 150px;
+    width: auto;
+
+}
+
+.px-2 {
+    padding-left: ($spacer * .5) !important;
+    padding-right: ($spacer * .5) !important;
+  }
+  
+
+.topcol{
+    align-content: center;
+
+
+}
+.toppic {
+    height: 200px;
+    width: 200px;
+}
+
+.aboutme{
+    height: 500px;
+    width: 500px;
+}
+
+.colorblock { 
+    background-color: #32373b;
+
+}
+
+.colorblock2 {
+    background-color: #f5f9e9;
+}
+
+.colorblock3 {
+    background-color: #ff934f;
+}
+
+.colorblock4 {
+    background-color: #009fb7;
+}
+
